@@ -18,7 +18,7 @@ By analyzing the Line graph for the outcomes based on Launch date:
 ### Analysis of Outcomes Based on Goals
 Using the COUNTIFS () function in Excel, the number and percentage of successful, failed, and canceled Kickstarter campaigns have been categorized based on the goal range (< 1000 - >50000) column. A line graph has been created using the categorized data as shown below:
 
-
+![image](https://user-images.githubusercontent.com/76491891/109406118-7dc91800-7944-11eb-9a14-e0586715b575.png)
 
 By analyzing the Line graph for the outcomes based on Goals:
 *	If the campaign Goal amount is lower, then the chance of success rate is higher. From the above line graph, we can say that most successful campaigns have low goal amounts like $5000 or less.
