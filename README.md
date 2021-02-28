@@ -9,7 +9,7 @@ Louise wants to analyze two factors. They are:
 ### Analysis of Outcomes Based on Launch Date
 A pivot table was created to summarize the monthly performance of Kickstarter campaigns related to Theater to compare if an outcome is “successful”, “failed” or “canceled”. The summarized data shown in the pivot table is shown as a Line graph below:
 
-![Theater_Outcomes_vs_Launch](C:\BootCamp\ClassFolder\Resources\Theater_Outcomes_vs_Launch.png)
+![image](https://user-images.githubusercontent.com/76491891/109406049-f11e5a00-7943-11eb-80b3-ec52ec8ff5a9.png)
 
 By analyzing the Line graph for the outcomes based on Launch date:
 *	Majority of Kickstarter campaigns related to Theater that are successful were launched in May or June.
@@ -18,7 +18,7 @@ By analyzing the Line graph for the outcomes based on Launch date:
 ### Analysis of Outcomes Based on Goals
 Using the COUNTIFS () function in Excel, the number and percentage of successful, failed, and canceled Kickstarter campaigns have been categorized based on the goal range (< 1000 - >50000) column. A line graph has been created using the categorized data as shown below:
 
-![Outcomes_vs_Goals](C:\BootCamp\ClassFolder\Resources\Outcomes_vs_Goals.png)
+
 
 By analyzing the Line graph for the outcomes based on Goals:
 *	If the campaign Goal amount is lower, then the chance of success rate is higher. From the above line graph, we can say that most successful campaigns have low goal amounts like $5000 or less.
